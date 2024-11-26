@@ -1,0 +1,26 @@
+VIDEO DE YOUTUBE
+NICIO
+• Agarro el celular 
+• Oprimo el botón de encender y se prende
+• Desbloqueo el celular
+• Busco en la pantalla el símbolo de YouTube
+• Lo presiono para abrir la aplicación de YouTube
+• Presiono el icono de la lupita
+• Ingreso un texto
+• Si aparece el video que quiero ver
+            Selecciono el video
+                        Si aparece un anuncio 
+                                    Le doy click en el boton de omitir para quitar el anuncio
+                                    Reproduzco el video
+                        Si no aparece un anuncio 
+                                    Se reproduce el video de manera normal 
+• Si no aparece el video 
+            Presiono el icono de la lupita
+            Ingreso otro texto 
+            Le doy click en otro video 
+                       Si aparece un anuncio 
+                                    Le doy click en el boton de omitir para quitar el anuncio
+                                    Reproduzco el video
+                       Si no aparece un anuncio 
+                                    Se reproduce el video de manera normal 
+FIN

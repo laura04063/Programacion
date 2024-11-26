@@ -1,0 +1,107 @@
+MI DIA 
+INICIO
+• Me despierto
+• Si tengo clases:
+    ◦ Me levanto de la cama 
+    ◦ Me dirijo al ropero 
+    ◦ Selecciono la ropa que me voy a poner
+    ◦ Agarro un paño 
+    ◦ Me dirijo hacia la puerta del cuarto
+    ◦ Abro la puerta del cuarto 
+    ◦ Camino hacia el baño 
+    ◦ Abro la puerta del baño
+    ◦ Entro al baño
+    ◦ Entro a la ducha 
+    ◦ Me ducho
+    ◦ Salgo de la ducha 
+    ◦ Me pongo la ropa 
+    ◦ Salgo del baño 
+    ◦ Camino hacia la cocina 
+           Si mi mama me hizo desayuno 
+                       Me dirijo al plato de comida 
+                       Agarro el plato 
+                       Agarro cubiertos
+                       Camino a la mesa 
+                       Me como el desayuno 
+           Si no me hizo desayuno 
+                       No como nada
+    ◦ Agarro el celular 
+    ◦ Oprimo el botón de encender y se prende
+    ◦ Desbloqueo el celular
+    ◦ Busco en la pantalla el símbolo de uber 
+    ◦ Lo presiono para abrir la aplicación 
+    ◦ Selección a donde dice la opción “Donde vas”
+    ◦ Ingreso la ubicación de la U
+    ◦ Espero a que un conductos seleccione el viaje 
+    ◦ Me dirijo al baño 
+    ◦ Abro la puerta 
+    ◦ Agarro el cepillo de dientes 
+    ◦ Me lavo los dientes 
+    ◦ Dejo el cepillo donde va 
+    ◦ Agarro las llaves de la casa
+    ◦ Me dirijo a la puerta
+    ◦ Cierro la puerta
+    ◦ Camino hacia donde el bus 
+    ◦ Me subo al bus 
+    ◦ Pago el bus 
+    ◦ Me voy para la U
+    ◦ Llego a la U 
+    ◦ Me bajo del bus 
+    ◦ Me dirijo a las clases
+    ◦ Recibo las clases
+    ◦ Salgo de las clases 
+    ◦ Camino a la parada de bus 
+    ◦ Pago el bus
+    ◦ Me devuelvo a la casa
+    ◦ Me bajo y camino 2 cuadras 
+    ◦ Llego a la casa 
+    ◦ Agarro las llaves 
+    ◦ Abro la puerta 
+    ◦ Entro a la casa
+    ◦ Camino a mi cuarto 
+    ◦ Me voy a dormir
+• Sino tengo clases:
+    ◦ Me levanto de la cama 
+    ◦ Me dirijo a la puerta 
+    ◦ Abro la puerta 
+    ◦ Camino hacia la cocina 
+           Si mi mama me hizo desayuno 
+                       Me dirijo al plato de comida 
+                       Agarro el plato 
+                       Agarro cubiertos
+                       Camino a la mesa 
+                       Me como el desayuno 
+           Si no me hizo desayuno 
+                       No como nada
+    ◦ Camino al baño 
+    ◦ Abro la puerta 
+    ◦ Agarro la ropa sucia 
+    ◦ Camino al cuarto de pilas 
+    ◦ Abro la lavadora
+    ◦ Pongo la ropa
+    ◦ Enciendo la lavadora
+    ◦ Pongo a lavar ropa 
+    ◦ Mientras se termina de lavar ropa
+        ▪ Camino a mi cuarto 
+        ▪ Me siento en la silla del escritorio 
+        ▪ Repaso inglés o adelanto trabajos de la U
+    ◦ Me dirijo al cuarto de pilas 
+    ◦ Abro la lavadora 
+    ◦ Saco la ropa 
+    ◦ Tiendo la ropa 
+    ◦ Camino a mi cuarto 
+    ◦ Abro el ropero 
+    ◦ Selecciono la ropa del gimnasio 
+    ◦ Agarro las llaves de la casa
+    ◦ Me dirijo a la puerta
+    ◦ Cierro la puerta
+    ◦ Camino hacia el gimnasio
+    ◦ Hago ejercicio
+    ◦ Termino de hacer ejercicio 
+    ◦ Camino a la casa 
+    ◦ Agarro las llaves 
+    ◦ Abro la puerta 
+    ◦ Entro a la casa
+    ◦ Camino a mi cuarto 
+    ◦ Me voy a dormir
+FIN
